@@ -43,12 +43,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Inicio"}
+ - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Ponentes"}
- - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Ubicación"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/logistics/", text: "Location"}
  #- {permalink: "/nggirls/", text: "nggirls"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -197,7 +197,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "We are a small but ambitious team with big dreams. We love what we do and we do it because of the community. So now it is our turn to give back to the community!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
