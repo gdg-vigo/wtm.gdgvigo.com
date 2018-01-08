@@ -140,7 +140,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "350"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Patrocina ahora"
+  buyButtonText: "Sponsor us now!"
   ticketContentList: ["Support women in tech", "Logo on website", "Shared slide"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
