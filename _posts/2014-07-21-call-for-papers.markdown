@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2018-01-09 09:00:00
 isStaticPost: false
 ---
 Women Techmakers Galicia will be held 10th of March in the city of Vigo. If you want to be part of this great event as a speaker you are in luck!
