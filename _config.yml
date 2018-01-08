@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Galicia 2018"
+title: "WTM Galicia 2018"
 email: "info@gdggalicia.com"
 description: "The Women Techmakers Global Event Series Celebrating International Women's Day"
 baseurl: ""
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "wtm.gdggalicia.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "WTM Galicia"
+organizerName: "Women Techmakers Galicia"
 organizerAlternateName: "Women Techmakers Galicia"
 organizerDescription: "Women Techmakers powered by GDG Galicia presents
                        International Women's Day Global Event Series. Connect. Create. Celebrate."
@@ -57,7 +57,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM <typeout> 2018"
+heroTitle: "Women Techmakers <typeout> 2018"
 eventDate: "9-10 March, 2018"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
