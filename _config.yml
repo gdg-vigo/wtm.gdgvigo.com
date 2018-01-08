@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "WTM Galicia 2018"
+title: "Women Techmakers Galicia 2018"
 email: "info@gdggalicia.com"
 description: "The Women Techmakers Global Event Series Celebrating International Women's Day"
 baseurl: ""
