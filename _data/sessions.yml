@@ -11,32 +11,29 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  title: "Inclusion in technology + Building your first chatbot with Actions on Google!"
+  description: "She will host a talk on how to get started with building conversational bots using Actions on Google, that allows you to extend the Google Assistant to create your own Conversation Actions, integrate Google Assistant support into your services in your real world without a single line of code!"
+  subtype: presentation
+  speakers: [3]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "<strike>No</strike> Quiero Ser Ingeniera "
+  description: "La informática (y los campos englobados en STEM) es para mí un campo apasionante en el que, sin embargo, el número de mujeres es muy reducido. Esto no sólo representa un problema para una industria que se basa en la creatividad y que necesita tener en cuenta la diferencia. Sino que también hace que muchas mujeres acaben abandonando el barco. En esta charla hablaré de qué me ha hecho a mí darme cuenta de la importancia de este problema y  qué podemos hacer para enfrentarnos a ello, colaborando
+                para hacer de la diversidad y la inclusión una realidad en STEM."
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  language: es
+  complexity: "Beginner"
+-
+  id: 003
+  title: "Keynote"
+  description: "Diversity and Inclusion in Technology"
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: "Beginner"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
