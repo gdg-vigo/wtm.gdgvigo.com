@@ -68,7 +68,7 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre WTM Galicia"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG Galicia! Awesome speakers and lots of fun!" }
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
@@ -128,49 +128,43 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around end of January 2018. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Patrocinios"
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  name: "Shy guy"
+  price: "150"
+  priceCurrency: "€"
+  ticketsNumber: "350"
+  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonText: "Patrocina ahora"
+  ticketContentList: ["Logo en web", "Diapositiva conjunta"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
+  name: "Big boss"
+  price: "800"
+  priceCurrency: "€"
+  ticketsNumber: "1000"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonText: "Patrocina ahora"
+  ticketContentList: ["Todo lo incluído en High five ", "Logo en camiseta", "Logo en los títulos de la grabación", "Stand para contratar gente"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
-  disabled: true
  -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  name: "High five"
+  price: "400"
+  priceCurrency: "€"
+  ticketsNumber: "700"
+  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonText: "Patrocina ahora"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Todo lo incluído en Shy guy", "Diapositiva propia", "Mención en social media"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
