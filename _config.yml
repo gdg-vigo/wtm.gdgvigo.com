@@ -37,8 +37,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://gdgvigo.typeform.com/to/tv2opj"
+c4sponsorsUrl: "https://gdgvigo.typeform.com/to/okuTbZ"
 
 
 # Navigation
@@ -52,9 +52,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/nggirls/", text: "nggirls"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://gdgvigo.typeform.com/to/tv2opj", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a sponsor"}
+ - {link: "https://gdgvigo.typeform.com/to/okuTbZ", text: "Become a sponsor"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -63,7 +63,7 @@ eventDate: "9-10 March, 2018"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://gdgvigo.typeform.com/to/tv2opj", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Become a sponsor"}
 
 # About Block
@@ -139,7 +139,7 @@ ticketsOffers:
   price: "300"
   priceCurrency: "€"
   ticketsNumber: "350"
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonLink: "https://gdgvigo.typeform.com/to/okuTbZ"
   buyButtonText: "Sponsor us now!"
   ticketContentList: ["Support women in tech", "Logo on website", "Shared slide"]
   validFrom: "2014-08-25T10:00"
@@ -150,7 +150,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "1000"
   featured: true
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonLink: "https://gdgvigo.typeform.com/to/okuTbZ"
   buyButtonText: "Sponsor us now!"
   ticketContentList: ["Everything from High five ", "Logo on T-Shirt", "Logo on videos that are recorded", "Hiring booth at venue"]
   validFrom: "2014-10-01T00:00"
@@ -160,7 +160,7 @@ ticketsOffers:
   price: "700"
   priceCurrency: "€"
   ticketsNumber: "700"
-  buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
+  buyButtonLink: "https://gdgvigo.typeform.com/to/okuTbZ"
   buyButtonText: "Sponsor us now!"
 #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Everything from Shy guy", "Your own slide", "Social Media mention"]
