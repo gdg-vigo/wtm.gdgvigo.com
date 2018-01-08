@@ -45,11 +45,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/cod/", text: "Code of Conduct"}
- - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
+ - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/nggirls/", text: "nggirls"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -67,7 +67,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Become a sponsor"}
 
 # About Block
-aboutTitle: "Sobre WTM Galicia"
+aboutTitle: "About WTM Galicia"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG Galicia! Awesome speakers and lots of fun!" }
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -132,7 +132,7 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of January 2018. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Patrocinios"
+ticketsTitle: "Sponsorship"
 ticketsOffers:
  -
   name: "Shy guy"
@@ -171,7 +171,7 @@ ticketsOffers:
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://facebook.com/GDGVigo", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
@@ -182,7 +182,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@gdgvigo.com", text: "info@gdgvigo.com"}
  -
   title: "FAQ"
   links:
