@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Amanda"
   surname: "Cavallaro"
   company: "resolver.co.uk"
@@ -37,3 +37,17 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "twitter", link: "https://twitter.com/anacidre_"}
+-
+  id: 2
+  name: "Daniela"
+  surname: "Fontes"
+  company: "Mimicry"
+  title: "Co-owner & Technical Director"
+  bio: "Daniela is the Technical Director of Mimicry, currently working on Ganbatte, a multiplayer game about cats, eating sushi in space.
+        She's a computer scientist with a sweet spot for AI, who's fond of wearing multiple hats while running her studio.
+        Proud VR pioneer, she works with a broad range of VR devices and projects to craft games and experiences.
+        She is also a co-organizer of Portugal Virtual Reality Meetup, an event aimed at creating a local community of VR developers and enthusiasts."
+  thumbnailUrl: DanielaFontes.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/DanielaFIFO"}
