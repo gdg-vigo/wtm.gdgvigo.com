@@ -2,3 +2,7 @@
   group: "General sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+-
+  group: "With support of"
+  elements:
+    - {name: "Stickermule", description: "Stickermule", link: "https://www.stickermule.com/supports/womentechmakersgalicia", imageUrl: "stickermule.svg"}
