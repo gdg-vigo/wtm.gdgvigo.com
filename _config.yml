@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "WTM Galicia 2018"
+title: "Women Techmakers Galicia 2018 - 10th March, Vigo"
 email: "info@gdggalicia.com"
-description: "The Women Techmakers Global Event Series Celebrating International Women's Day"
+description: "Women Techmakers Galicia is coming to Vigo on the 10th March 2018. We are currently looking for sponsors. Join us to help make the Galician tech scene a more diverse place."
 baseurl: ""
 url: "https://wtm.gdggalicia.com"
 permalink: "/blog/:title"
