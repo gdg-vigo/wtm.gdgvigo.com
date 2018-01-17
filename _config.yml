@@ -32,9 +32,9 @@ organizerLink: "https://www.meetup.com/en-AU/GDGVigo/?chapter_analytics_code=UA-
 # Head
 metaKeywords: "wtm, galicia, women, event, gdg, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@gdggalicia"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/social-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/social-share.jpg"
+socialImageSrcTwitter: "/img/seo/social-share.jpg"
+socialImageSrcFacebook: "/img/seo/social-share.jpg"
 
 # Documents
 c4pUrl: "https://gdgvigo.typeform.com/to/tv2opj"
