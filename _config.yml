@@ -64,7 +64,7 @@ typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
 heroButtons:
  - {link: "https://gdgvigo.typeform.com/to/tv2opj", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Become a sponsor"}
+ - {permalink: "/#sponsors", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About WTM Galicia"
