@@ -36,14 +36,13 @@
   complexity: "Beginner"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
+  title: "Intro to VR with UE4"
+  description: "We often hear that VR is an 'empathy machine', paving the way to a new paradigm of immersive computing. In this talk, we go over understanding how to use Unreal Engine 4 to create a simple VR experience, using Blueprints. Blueprints is a very powerful visual scripting tool."
+  subtype: presentation
+  speakers: [2]
   language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner - Intermediate"
+
 -
   id: 005
   title: "Test: Interacting with Google Services using nothing but HTML"
