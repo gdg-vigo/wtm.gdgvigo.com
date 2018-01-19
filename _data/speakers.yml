@@ -51,3 +51,14 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/DanielaFIFO"}
+-
+  id: 3
+  name: "María José"
+  surname: "R. Malmierca"
+  company: "CESGA"
+  title: "E-learning & Collaboration Dept. Manager"
+  bio: "María José Rodríguez Malmierca es la responsable de e-learning y colaboración  del Centro de Supercomputación de Galicia desde el año 1999, donde ha trabajado en más de 30 proyectos. Coordinadora del proyecto europeo 'ICT-Go-Girls!: Promoting Entrepreneurship among Secundary School Girls through ICTC', valorado por la Comisión Europea como ejemplo de Buenas Prácticas en el campo de la promoción de las TIC entre las niñas."
+  thumbnailUrl: MariaJose.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/DanielaFIFO"}

@@ -45,11 +45,9 @@
 
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "¿Cómo apasionamos a las niñas para crear la tecnología de mañana?"
+  description: "Las carreras técnicas sufren una carencia de matrícula femenina muy elevada. Las causas son múltiples y complejas, y es necesario comenzar con las niñas, desde diferentes ámbitos. El proyecto ICT-Go-Girls analizó estos factores, presentando una metodología de trabajo en el aula con niñas de 10 a 14 años."
+  subtype: presentation
+  speakers: [3]
+  language: es
+  complexity: "Beginner"
