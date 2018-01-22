@@ -4,6 +4,7 @@
     - {name: "GDG Vigo", description: "GDG Vigo - Comunidad abierta de voluntarios en la ciudad de Vigo", link: "https://www.meetup.com/es-ES/GDGVigo/", imageUrl: "gdg-vigo.svg"}
 - 
   group: "Co-organizers"
-  elements: 
+  elements:
     - {name: "GDG Ourense", description: "GDG Ourense - Comunidad abierta de voluntarios en la ciudad de Ourense", link: "https://www.meetup.com/GDGOurense/", imageUrl: "gdg-ourense.svg"}
-    - {name: "GDG Santiago", description: "GDG Santiago - Comunidad abierta de voluntarios en la ciudad de Santiago de Compostela", link: "https://www.meetup.com/es-ES/GDGSantiagoes/", imageUrl: "gdg-santiago.svg"}
+    - {name: "A industriosa", description: "A Industriosa - Vigo", link: "https://intranet.aindustriosa.org/", imageUrl: "logo_completo.svg"}
+    - {name: "GDG Santiago", description: "GDG Santiago - Comunidad abierta de voluntarios en la ciudadjek de Santiago de Compostela", link: "https://www.meetup.com/es-ES/GDGSantiagoes/", imageUrl: "gdg-santiago.svg"}
