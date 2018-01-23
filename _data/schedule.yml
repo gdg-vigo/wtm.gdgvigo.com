@@ -1,39 +1,3 @@
-- 
-  date: "2018-02-09"
-  dateReadable: "March 9"
-  tracks:
-    - {title: "NgGirls", color: "#e91e63"}
-  timeslots:
-    - {
-        startTime: "10:00",
-        endTime: "10:30",
-        sessionIds: [101]
-    }
-    - {
-        startTime: "10:30",
-        endTime: "11:30",
-        sessionIds: [401]
-    }
-    - {
-    	startTime: "11:30",
-        endTime: "12:00",
-        sessionIds: [307]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "14:00",
-        sessionIds: [401]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "15:30",
-        sessionIds: [503]
-    }
-    - {
-        startTime: "15:30",
-        endTime: "17:00",
-        sessionIds: [401]
-    }
 -
   date: "2018-02-10"
   dateReadable: "March 10"
@@ -99,4 +63,40 @@
         startTime: "16:20",
         endTime: "17:05",
         sessionIds: [202]
+    }
+-
+  date: "2018-02-09"
+  dateReadable: "March 9"
+  tracks:
+    - {title: "NgGirls", color: "#e91e63"}
+  timeslots:
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [101]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:30",
+        sessionIds: [401]
+    }
+    - {
+    	startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [307]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "14:00",
+        sessionIds: [401]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:30",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "17:00",
+        sessionIds: [401]
     }
