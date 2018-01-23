@@ -51,3 +51,12 @@
   speakers: [3]
   language: es
   complexity: "Beginner"
+
+-
+  id: 006
+  title: "Intro to Continuous Delivery"
+  description: "Continuous Delivery is a practice that focuses on delivering value to the end user through frequent releases of software. It heavily relays in testing and automation and can be applied to almost every technology project. In this talks, I describe the benefits of Continuous Delivery, as well as introducing the steps you need to put in place to start the CD journey."
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: "Beginner"

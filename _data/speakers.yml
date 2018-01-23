@@ -62,3 +62,14 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/malmirk"}
+-
+  id: 6
+  name: "María"
+  surname: "Gomez"
+  company: "Thoughtworks"
+  title: "Market Tech Principal"
+  bio: " I've been a software developer and an architect for over 9 years. I've worked with many different technologies and domains, which has helped her lead teams and advise stakeholders in making the right technology decisions. I'm also a speaker and an advocate for diversity and inclusion in the IT industry."
+  thumbnailUrl: MariaGomez.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mariascandella"}
