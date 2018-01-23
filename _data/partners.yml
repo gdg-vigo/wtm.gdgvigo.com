@@ -6,3 +6,4 @@
   group: "With support of"
   elements:
     - {name: "Stickermule", description: "Stickermule", link: "https://www.stickermule.com/supports/womentechmakersgalicia", imageUrl: "stickermule.svg"}
+    - {name: "Corunet", description: "Corunet", link: "http://coru.net/", imageUrl: "corunet.svg"}
