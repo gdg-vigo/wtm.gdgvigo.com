@@ -45,7 +45,7 @@ c4sponsorsUrl: "https://gdgvigo.typeform.com/to/okuTbZ"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/cod/", text: "Code of Conduct"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}

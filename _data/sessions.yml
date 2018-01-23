@@ -5,9 +5,37 @@
   service: true
   description: "The best time to talk with speakers and attendees"
 -
+  id: 308
+  title: "Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
   id: 503
   title: "Lunch Break"
   place: "Dining room"
+  service: true
+-
+  id: 101
+  title: "Registration"
+  place: "Hall"
+  service: true
+  description: "It needs to be done"
+-
+  id: 401
+  title: "NgGirls"
+  place: "Classroom"
+  service: true
+  description: "NgGirls"
+-
+  id: 201
+  title: "Welcome"
+  place: "Conference room"
+  service: true
+-
+  id: 202
+  title: "Closing talk"
+  place: "Conference room"
   service: true
 -
   id: 001
