@@ -207,8 +207,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "42.237647, -8.718602"
-logisticsMapMobileCenterCoordinates: "42.237647, -8.718602"
+logisticsMapCenterCoordinates: "42.237904, -8.720964"
+logisticsMapMobileCenterCoordinates: "42.237904, -8.720964"
 logisticsMapAutoDirections: false
 googleMapsApiKey: "AIzaSyCKZiS4sRf0EO86qoQvCJIJTnjvN3qdMPA"
 
