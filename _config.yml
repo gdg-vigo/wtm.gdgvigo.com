@@ -101,9 +101,9 @@ eventAddressCountry: "Spain"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "42.238116, -8.718613"
-mapCenterCoordinates: "42.238116, -8.718613"
-mapMobileCenterCoordinates: "42.238116, -8.718613"
+eventPlaceCoordinates: "42.237904, -8.720964"
+mapCenterCoordinates: "42.237904, -8.720964"
+mapMobileCenterCoordinates: "42.237904, -8.720964"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -210,7 +210,7 @@ findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "42.237647, -8.718602"
 logisticsMapMobileCenterCoordinates: "42.237647, -8.718602"
 logisticsMapAutoDirections: false
-googleMapsAPIKey: AIzaSyACTd3JHd_BSjW7Ah5QqPA8nZcA7hpDReo
+googleMapsAPIKey: "AIzaSyCKZiS4sRf0EO86qoQvCJIJTnjvN3qdMPA"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
