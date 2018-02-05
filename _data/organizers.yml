@@ -5,6 +5,5 @@
 - 
   group: "Co-organizers"
   elements:
-    - {name: "GDG Ourense", description: "GDG Ourense - Comunidad abierta de voluntarios en la ciudad de Ourense", link: "https://www.meetup.com/GDGOurense/", imageUrl: "gdg-ourense.svg"}
+    - {name: "GalsTech", description: "GalsTech - Comunidad para mujeres tecnológicas de Galicia", link: "https://www.galstech.org", imageUrl: "galstech.svg"}
     - {name: "A industriosa", description: "A Industriosa - Vigo", link: "https://intranet.aindustriosa.org/", imageUrl: "logo_completo.svg"}
-    - {name: "GDG Santiago", description: "GDG Santiago - Comunidad abierta de voluntarios en la ciudadjek de Santiago de Compostela", link: "https://www.meetup.com/es-ES/GDGSantiagoes/", imageUrl: "gdg-santiago.svg"}
