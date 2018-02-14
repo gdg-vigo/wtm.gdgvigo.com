@@ -50,9 +50,8 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Location"}
  - {permalink: "/blog/", text: "Blog"}
+ - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
  #- {permalink: "/nggirls/", text: "nggirls"}
-bottomNavigationLinks:
- - {link: "https://gdgvigo.typeform.com/to/tv2opj", text: "Become a speaker"}
 rightNavigationButtons:
  - {link: "https://gdgvigo.typeform.com/to/okuTbZ", text: "Become a sponsor"}
 
@@ -63,7 +62,7 @@ eventDate: "9-10 March, 2018"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
 heroButtons:
- - {link: "https://gdgvigo.typeform.com/to/tv2opj", text: "Become a speaker"}
+ - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
  - {permalink: "/#sponsors", text: "Become a sponsor"}
 
 # About Block
