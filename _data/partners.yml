@@ -6,7 +6,7 @@
   group: "Big Boss sponsors:"
   elements:
     - {name: "Teltek", description: "Teltek", link: "https://teltek.es", imageUrl: "logo_Teltek.svg"}
-    - {name: "Accenture", description: "Accenture", link: "https://www.accenture.com/es-es/", imageUrl: "accenture.svg"}
+    - {name: "Accenture", description: "Accenture", link: "https://www.accenture.com/es-es/", imageUrl: "accenture.svg", width: "400px"}
 -
   group: "Shy guy sponsors"
   elements:
