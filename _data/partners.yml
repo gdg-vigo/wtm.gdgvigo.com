@@ -16,4 +16,5 @@
     - {name: "Corunet", description: "Corunet", link: "http://coru.net/", imageUrl: "corunet.svg"}
     - {name: "ThoughtWorks", description: "ThoughtWorks", link: "https://www.thoughtworks.com/", imageUrl: "ThoughtWorks.svg"}
     - {name: "Sivsa", description: "Sivsa", link: "https://www.sivsa.com/", imageUrl: "sivsa.svg"}
+    - {name: "Optare Solutions", description: "Optare", link: "http://optaresolutions.com/es/", imageUrl: "abbilia-optare.png"}
 
