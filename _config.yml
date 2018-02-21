@@ -53,7 +53,7 @@ navigationLinks:
  - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
  #- {permalink: "/nggirls/", text: "nggirls"}
 rightNavigationButtons:
- - {link: "https://gdgvigo.typeform.com/to/okuTbZ", text: "Become a sponsor"}
+ - {link: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -63,7 +63,7 @@ typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
 heroButtons:
  - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
- - {permalink: "/#sponsors", text: "Become a sponsor"}
+ - {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
 
 # About Block
 aboutTitle: "About WTM Galicia"
