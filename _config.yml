@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Women Techmakers <typeout> 2018"
-eventDate: "9-10 March, 2018"
+eventDate: "9-10 March, 2018, Fundación Barrié - Vigo"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Galicia"
 heroButtons:
@@ -214,7 +214,7 @@ googleMapsApiKey: "AIzaSyCKZiS4sRf0EO86qoQvCJIJTnjvN3qdMPA"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Vigo"
+directionDetailsTitle: "Get to Fundación Barrié, Vigo"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easy to reach by car, public transport or taxi. More information is available at <a href="http://www.aena.es/es/aeropuerto-vigo/transporte-y-parking.html">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Vigo. So you can find your way on Google Maps. Vigo is not a very big city so it is easy to get around by foot.'}
