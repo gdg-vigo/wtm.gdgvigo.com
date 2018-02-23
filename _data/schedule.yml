@@ -71,32 +71,42 @@
     - {title: "NgGirls", color: "#e91e63"}
   timeslots:
     - {
-        startTime: "10:00",
-        endTime: "10:30",
+        startTime: "09:30",
+        endTime: "09:45",
         sessionIds: [101]
     }
     - {
-        startTime: "10:30",
-        endTime: "11:30",
+        startTime: "09:45",
+        endTime: "10:15",
         sessionIds: [401]
     }
     - {
-    	startTime: "11:30",
-        endTime: "12:00",
+    	startTime: "10:15",
+        endTime: "11:15",
         sessionIds: [307]
     }
     - {
-        startTime: "12:00",
-        endTime: "14:00",
+        startTime: "11:15",
+        endTime: "11:45",
         sessionIds: [401]
     }
     - {
-        startTime: "14:00",
-        endTime: "15:30",
+        startTime: "11:45",
+        endTime: "13:45",
+        sessionIds: [401]
+    }
+    - {
+        startTime: "13:45",
+        endTime: "14:45",
         sessionIds: [503]
     }
     - {
-        startTime: "15:30",
+        startTime: "14:45",
+        endTime: "16:40",
+        sessionIds: [401]
+      }
+    - {
+        startTime: "16:40",
         endTime: "17:00",
         sessionIds: [401]
-    }
+      }
