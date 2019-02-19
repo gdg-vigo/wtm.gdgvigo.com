@@ -1,13 +1,13 @@
 -
   id: 307
   title: "Networking"
-  place: "Hall"
+  place: "WTM"
   service: true
   description: "Habrá pizzas y bebidas!"
 -
   id: 101
   title: "Intro"
-  place: "Hall"
+  place: "WTM"
   service: true
   description: "Una pequeña introducción"
 -

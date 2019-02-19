@@ -48,6 +48,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
+ - {link: "https://goo.gl/forms/CR6xr8kksFqRnVRs2", text: "Call for Sponsors"}
+
 
  #- {permalink: "/nggirls/", text: "nggirls"}
 rightNavigationButtons:
@@ -60,7 +62,7 @@ eventDate: "8, 15, 22 Marzo, 2019"
 typeoutTextValues: '"", "Vigo"'
 typeoutFallback: "Vigo"
 heroButtons:
- - {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
+ - {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Inscríbete"}
 
 # About Block
 aboutTitle: "Sobre WTM Vigo"
