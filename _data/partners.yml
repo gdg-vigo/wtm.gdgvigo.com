@@ -3,18 +3,9 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
 -
-  group: "Big Boss sponsors:"
+  group: "Event sponsor:"
   elements:
-    - {name: "Teltek", description: "Teltek", link: "https://teltek.es", imageUrl: "logo_Teltek.svg"}
-    - {name: "Accenture", description: "Accenture", link: "https://www.accenture.com/es-es/", imageUrl: "accenture.svg", width: "400px"}
-    - {name: "Dinahosting", description: "Dinahosting", link: "https://dinahosting.com/", imageUrl: "dinahosting.svg", width: "230px"}
+    - {name: "Vuestra empresa?", description: "Vuestra empresa?", link: "", imageUrl: "ve.png"}
+ 
 
--
-  group: "Shy guy sponsors"
-  elements:
-    - {name: "Stickermule", description: "Stickermule", link: "https://www.stickermule.com/supports/womentechmakersgalicia", imageUrl: "stickermule.svg"}
-    - {name: "Corunet", description: "Corunet", link: "http://coru.net/", imageUrl: "corunet.svg"}
-    - {name: "ThoughtWorks", description: "ThoughtWorks", link: "https://www.thoughtworks.com/", imageUrl: "ThoughtWorks.svg"}
-    - {name: "Sivsa", description: "Sivsa", link: "https://www.sivsa.com/", imageUrl: "sivsa.svg"}
-    - {name: "Optare Solutions", description: "Optare", link: "http://optaresolutions.com/es/", imageUrl: "abbilia-optare.png"}
 
