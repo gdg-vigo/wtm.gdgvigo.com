@@ -12,33 +12,32 @@
 - 
   id: 2
   name: "TBA"
-  surname: "TBA"
+  surname: ""
   company: "TBA"
-  title: "TBA"
-  bio: 'TBA'
-  thumbnailUrl: SabelaRamos.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/msaezfern"}
+  title: ""
+  bio: 'Aún falta por anunciar a esta ponente!'
+  thumbnailUrl: unknown.png
+  rockstar: false
+
 -
   id: 3
   name: "Sabela"
   surname: "Muñiz"
-  company: "Freelance"
-  title: "Frontend Developer"
-  bio: "TBA"
-  thumbnailUrl: AnaCidre.jpg
+  company: "Alobre 3D"
+  title: "CEO de Alobre 3D"
+  bio: "Creativa multidisciplinar, especializada en soluciones y diseños en 3D. Mente inquieta y curiosa, nunca me canso de aprender y descubrir cosas nuevas. No me conformo con lo que me cuentan, necesito experimentar, investigar, comprobarlo por mi misma, buscar mejoras o aplicaciones distintas. Evangelizadora de las Nuevas Tecnologías, comparto mis conocimientos y experiencias para ayudar a otros a comprenderlas y que pierdan el miedo a sumergirse en ellas."
+  thumbnailUrl: sabelaMuniz.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/castrovilar"}
 -
   id: 4
   name: "Mercedes"
-  surname: "TBA"
-  company: "1millionbog"
+  surname: "Rodríguez"
+  company: "1millionbot"
   title: "TBA"
   bio: "TBA"
-  thumbnailUrl: DanielaFontes.jpg
+  thumbnailUrl: mercedesRodriguez.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/mgarod3"}
