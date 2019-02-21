@@ -34,10 +34,12 @@
   id: 4
   name: "Mercedes"
   surname: "Rodríguez"
-  company: "1millionbot"
-  title: "TBA"
-  bio: "TBA"
+  company: "One Million Bot S.L."
+  title: "Directora de Innovación"
+  bio: "Mercedes Rodríguez trabaja como Directora de Innovación en One Million Bot S.L., una empresa que se dedica al desarrollo de chatbots y agentes conversacionales para diferentes plataformas. Entre los agentes que ha desarrollado se encuentran: Lola UMU, un chatbot de preinscripciones para la Universidad de Murcia; y Lola Horóscopos, un agente para el Asistente de Google con el que podemos interactuar por voz para saber qué nos deparará el destino. Además, es GDE (Google Developer Expert) para el Asistente de Google. Anteriormente, ha trabajado como traductora especializada en localización de software y páginas web, gestora de contenidos en diversos blogs y profesora asociada en la Universidad de Vigo. Actualmente, una de sus principales inquietudes es la escasez de mujeres en las TIC. Para tratar de revertir este tendencia, colabora como coorganizadora en GalsTech, un grupo de mujeres TIC de Galicia cuyo objetivo es organizar charlas y talleres en escuelas e institutos y meetups que permitan aumentar la visibilidad de las mujeres en el sector tecnológico, además de proporcionen referentes a las niñas para que se animen a dentrarse en el mundo de la tecnología."
   thumbnailUrl: mercedesRodriguez.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/mgarod3"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert"}

@@ -11,14 +11,6 @@
   service: true
   description: "Una pequeña introducción"
 -
-  id: 001
-  title: "Inclusion in technology + Building your first chatbot with Actions on Google!"
-  description: "She will host a talk on how to get started with building conversational bots using Actions on Google, that allows you to extend the Google Assistant to create your own Conversation Actions, integrate Google Assistant support into your services in your real world without a single line of code!"
-  subtype: presentation
-  speakers: [1]
-  language: en
-  complexity: "Beginner"
--
   id: 002
   title: "SEO para los que hacen webs"
   description: "Explicar los factores que determinan la búsqueda orgánica y ver qué cosas deben tener en cuenta los desarrolladores, diseñadores o creadores de contenido online a la hora de crear sitios web para optimizar su posicionamiento."
@@ -45,8 +37,8 @@
 
 -
   id: 005
-  title: "TBA"
-  description: "TBA"
+  title: "Crear un agente para el Asistente desde cero con Dialogflow"
+  description: "Primero, veremos una introducción a los principales conceptos de los Asistentes virtuales, Dialogflow y la plataforma Actions on Google, junto con una breve descripción de los pasos que se deben seguir para crear un agente. Después, pasaremos al taller práctico en que podrás crear tu primer agente desde cero. Material: No es necesario traer nada instalado, trabajaremos en la nube. Requisitos: para el taller hacen falta conocimientos básicos de javascript o typescript."
   subtype: workshop
   speakers: [4]
   language: es
