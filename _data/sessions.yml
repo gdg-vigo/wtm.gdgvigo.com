@@ -29,7 +29,7 @@
 -
   id: 004
   title: "Fotogrametría Low Cost: Obtención y postprocesado de réplicas 3D"
-  description: "Taller teórico/práctico sobre pautas y herramientas para sacarle el mayor partido a tus modelos fotogramétricos sin necesidad de equipos profesionales. Para ello, aprenderemos la metodología de toma de datos, corrección de errores y optimización de malla y textura."
+  description: "Charla técnica sobre pautas y herramientas para sacarle el mayor partido a tus modelos fotogramétricos sin necesidad de equipos profesionales. Para ello, aprenderemos la metodología de toma de datos, corrección de errores y optimización de malla y textura."
   subtype: workshop
   speakers: [3]
   language: es
