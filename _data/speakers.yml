@@ -1,75 +1,45 @@
 - 
   id: 1
-  name: "Amanda"
-  surname: "Cavallaro"
-  company: "resolver.co.uk"
-  title: "Software Developer, WTM Lead and GDG Cloud London"
-  bio: "Amanda Cavallaro is a software developer, passionate about Cloud technologies, Human Computer Interactions and Chatbots. She who works at resolver.co.uk and is a Women Techmakers Lead and Community Organiser at Google Developer Group Cloud London. You can speak to her in Portuguese, English, Italian and and a little of Japanese."
-  thumbnailUrl: AmandaCavallaro.jpg
+  name: "María "
+  surname: "Saez"
+  company: "msaez"
+  title: "Consultora de SEO Freelance"
+  bio: "Me titulé como Ingeniera Técnica Superior en Organización Industrial por ETSII de Vigo y tras trabajar desde 2003 en diferentes áreas de las Tecnologías de Información y Comunicación, me fui a Escocia a continuar mi formación con un Máster en Gestión de Sistemas de Información en la Glasgow Caledonian University. Allí, en Glasgow, me especializé en Marketing Digital, en particular en SEO (Search Engine Optimisation), trabajando como in-house Online Marketing Coordinator de una multinacional hasta el año 2009. Actualmente trabajo como consultora SEO freelance desarrollando proyectos de optimización para empresas gallegas e internacionales."
+  thumbnailUrl: mariaSaez.jpg
   rockstar: true
-  ribbon:
-      - {abbr: "WT", title: "Women Techmaker Lead"}
-      - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/chibichibibr/"}
+    - {name: "twitter", link: "https://twitter.com/msaezfern"}
 - 
-  id: 4
-  name: "Sabela"
-  surname: "Ramos"
-  company: "Youtube, Google"
-  title: "Ingeniera"
-  bio: 'Sabela Ramos Garea estudió informática en la FIC (Facultade de Informática da Coruña) y es doctora  en informática por la misma universidad. Su investigación en computación de altas prestaciones la llevó a hacer un Postdoc en la ETH de Zürich (Suiza), desde donde dio el salto a la industria. Desde entonces, trabaja como ingeniera en YouTube (Google Zürich).'
-  thumbnailUrl: SabelaRamos.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/sabelaraga"}
--
-  id: 5
-  name: "Ana"
-  surname: "Cidre"
-  company: "Freelance"
-  title: "Frontend Developer"
-  bio: "Ana Cidre is a Women Techmaker Lead and GDG organizer. She's not your usual programmer: She has degree in fine art and a master in international business economics and management but has always loved technology. She is now a frontend developer specialised in Angular."
-  thumbnailUrl: AnaCidre.jpg
-  rockstar: true
-  ribbon: 
-    - {abbr: "WT", title: "Women Techmaker Lead"}
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/anacidre_"}
--
   id: 2
-  name: "Daniela"
-  surname: "Fontes"
-  company: "Mimicry"
-  title: "Co-owner & Technical Director"
-  bio: "Daniela is the Technical Director of Mimicry, currently working on Ganbatte, a multiplayer game about cats, eating sushi in space.
-        She's a computer scientist with a sweet spot for AI, who's fond of wearing multiple hats while running her studio.
-        Proud VR pioneer, she works with a broad range of VR devices and projects to craft games and experiences.
-        She is also a co-organizer of Portugal Virtual Reality Meetup, an event aimed at creating a local community of VR developers and enthusiasts."
-  thumbnailUrl: DanielaFontes.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/DanielaFIFO"}
+  name: "TBA"
+  surname: ""
+  company: "TBA"
+  title: ""
+  bio: 'Aún falta por anunciar a esta ponente!'
+  thumbnailUrl: unknown.png
+  rockstar: false
+
 -
   id: 3
-  name: "María José"
-  surname: "R. Malmierca"
-  company: "CESGA"
-  title: "E-learning & Collaboration Dept. Manager"
-  bio: "María José Rodríguez Malmierca es la responsable de e-learning y colaboración  del Centro de Supercomputación de Galicia desde el año 1999, donde ha trabajado en más de 30 proyectos. Coordinadora del proyecto europeo 'ICT-Go-Girls!: Promoting Entrepreneurship among Secundary School Girls through ICTC', valorado por la Comisión Europea como ejemplo de Buenas Prácticas en el campo de la promoción de las TIC entre las niñas."
-  thumbnailUrl: MariaJose.jpg
+  name: "Sabela"
+  surname: "Muñiz"
+  company: "Alobre 3D"
+  title: "CEO de Alobre 3D"
+  bio: "Creativa multidisciplinar, especializada en soluciones y diseños en 3D. Mente inquieta y curiosa, nunca me canso de aprender y descubrir cosas nuevas. No me conformo con lo que me cuentan, necesito experimentar, investigar, comprobarlo por mi misma, buscar mejoras o aplicaciones distintas. Evangelizadora de las Nuevas Tecnologías, comparto mis conocimientos y experiencias para ayudar a otros a comprenderlas y que pierdan el miedo a sumergirse en ellas."
+  thumbnailUrl: sabelaMuniz.jpg
   rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/malmirk"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/castrovilar"}
 -
-  id: 6
-  name: "María"
-  surname: "Gomez"
-  company: "Thoughtworks"
-  title: "Market Tech Principal"
-  bio: " I've been a software developer and an architect for over 9 years. I've worked with many different technologies and domains, which has helped her lead teams and advise stakeholders in making the right technology decisions. I'm also a speaker and an advocate for diversity and inclusion in the IT industry."
-  thumbnailUrl: MariaGomez.jpg
+  id: 4
+  name: "Mercedes"
+  surname: "Rodríguez"
+  company: "One Million Bot S.L."
+  title: "Directora de Innovación"
+  bio: "Mercedes Rodríguez trabaja como Directora de Innovación en One Million Bot S.L., una empresa que se dedica al desarrollo de chatbots y agentes conversacionales para diferentes plataformas. Entre los agentes que ha desarrollado se encuentran: Lola UMU, un chatbot de preinscripciones para la Universidad de Murcia; y Lola Horóscopos, un agente para el Asistente de Google con el que podemos interactuar por voz para saber qué nos deparará el destino. Además, es GDE (Google Developer Expert) para el Asistente de Google. Anteriormente, ha trabajado como traductora especializada en localización de software y páginas web, gestora de contenidos en diversos blogs y profesora asociada en la Universidad de Vigo. Actualmente, una de sus principales inquietudes es la escasez de mujeres en las TIC. Para tratar de revertir este tendencia, colabora como coorganizadora en GalsTech, un grupo de mujeres TIC de Galicia cuyo objetivo es organizar charlas y talleres en escuelas e institutos y meetups que permitan aumentar la visibilidad de las mujeres en el sector tecnológico, además de proporcionen referentes a las niñas para que se animen a dentrarse en el mundo de la tecnología."
+  thumbnailUrl: mercedesRodriguez.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/mariascandella"}
+    - {name: "twitter", link: "https://twitter.com/mgarod3"}
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert"}

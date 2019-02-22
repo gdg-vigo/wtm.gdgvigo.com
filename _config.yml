@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Galicia 2018 - 10th March, Vigo"
-email: "info@gdggalicia.com"
-description: "Women Techmakers Galicia is coming to Vigo on the 10th March 2018. We are currently looking for sponsors. Join us to help make the Galician tech scene a more diverse place."
+title: "Women Techmakers Galicia 2019 - 8, 15, 22 Marzo, Vigo"
+email: "info@gdgvigo.com"
+description: "Women Techmakers Vigo consiste en tres eventos duranto el mes de Marzo para dar más visibilidad a la mujer en technología"
 baseurl: ""
-url: "https://wtm.gdggalicia.com"
+url: "https://wtm.gdgvigo.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-112660796-1"
-googleAnalyticsSiteUrl: "wtm.gdggalicia.com"
+googleAnalyticsSiteUrl: "wtm.gdgvigo.com"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -25,51 +25,51 @@ organizerName: "Women Techmakers Galicia"
 organizerAlternateName: "Women Techmakers Galicia"
 organizerDescription: "Women Techmakers powered by GDG Galicia presents
                        International Women's Day Global Event Series. Connect. Create. Celebrate."
-organizerEmail: "info@gdggalicia.com"
+organizerEmail: "info@gdgvigo.com"
 organizerLogo: "/img/seo/wtmgalicia.png"
 organizerLink: "https://www.meetup.com/en-AU/GDGVigo/?chapter_analytics_code=UA-73757047-1"
 
 # Head
 metaKeywords: "women, techmakers, wtm, galicia, event, gdg, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@gdggalicia"
+twitterAccount: "@gdgvigo"
 socialImageSrcGooglePlus: "/img/seo/social-share.jpg"
 socialImageSrcTwitter: "/img/seo/social-share.jpg"
 socialImageSrcFacebook: "/img/seo/social-share.jpg"
 
 # Documents
 c4pUrl: "https://gdgvigo.typeform.com/to/tv2opj"
-c4sponsorsUrl: "https://gdgvigo.typeform.com/to/okuTbZ"
+c4sponsorsUrl: "https://goo.gl/forms/3j91ECN3f3draRYk2"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/cod/", text: "Code of Conduct"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Location"}
- - {permalink: "/blog/", text: "Blog"}
- - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
+ - {permalink: "/", text: "Inicio"}
+ - {permalink: "/cod/", text: "Código de Conducta"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Equipo"}
+ - {link: "https://goo.gl/forms/CR6xr8kksFqRnVRs2", text: "Call for Sponsors"}
+
+
  #- {permalink: "/nggirls/", text: "nggirls"}
 rightNavigationButtons:
- - {link: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
+ - {link: "https://www.meetup.com/en-AU/GDGVigo/", text: "Inscríbete"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Women Techmakers <typeout> 2018"
-eventDate: "9-10 March, 2018, Fundación Barrié - Vigo"
-typeoutTextValues: '"", "Galicia"'
-typeoutFallback: "Galicia"
+heroTitle: "Women Techmakers <typeout> 2019"
+eventDate: "8, 15, 22 Marzo, 2019"
+typeoutTextValues: '"", "Vigo"'
+typeoutFallback: "Vigo"
 heroButtons:
- - {link: "http://ng-girls.org/galicia/", text: "ngGirls"}
- - {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Get your ticket"}
+ - {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Inscríbete"}
 
 # About Block
-aboutTitle: "About WTM Galicia"
+aboutTitle: "Sobre WTM Vigo"
 aboutBlock:
- - {title: "ngGirls", image: "nggirls.jpg", text: "A global Angular workshop to introduce women to the world of technology and increase diversity on 9th March" }
- - {title: "Conference", image: "conference.jpg", text: "The best tech conference in Galicia crafted by the local GDG groups with awesome speakers and lots of fun!" }
+ - {title: "8 Marzo", image: "conference.jpg", text: "Dos charlas de dos ponentes especializadas en su sector." }
+ - {title: "15 Marzo", image: "workshop1.jpg", text: "Taller teórico/práctico sobre pautas y herramientas para sacarle el mayor partido a tus modelos fotogramétricos sin necesidad de equipos profesionales." }
+ - {title: "22 Marzo", image: "workshop.jpg", text: "Taller práctico sobre Actions on Google." }
  #- {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
@@ -86,8 +86,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Nuestras ponentes"
+rockstarSpeakersButtonText: "Ver ponentes"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -121,9 +121,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinios"
+partnersC4sponsorsButton: "Quieres patrocinar?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"

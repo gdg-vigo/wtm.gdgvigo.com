@@ -59,6 +59,6 @@ Google reserves the right to refuse admittance to, or remove any person from the
 
 ##### Contacts:
 
-- Ana Cidre, +34 698 14 30 95, [info@gdgvigo.com](mailto:info@gdgvigo.com)
+- Ana Cidre, [info@gdgvigo.com](mailto:info@gdgvigo.com)
 
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
+<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/sections-background/cod.jpg" style="display:none">
