@@ -1,6 +1,6 @@
 -
   date: "2019-03-08"
-  dateReadable: "8 Marzo"
+  dateReadable: "7 Marzo"
   tracks:
     - {title: "Charlas", color: "#03a9f4"}
   timeslots:
@@ -53,13 +53,13 @@
     - {title: "Taller", color: "#e91e63"}
   timeslots:
     - {
-        startTime: "18:00",
-        endTime: "18:05",
+        startTime: "17:30",
+        endTime: "18:00",
         sessionIds: [101]
     }
     - {
-        startTime: "18:05",
-        endTime: "20:05",
+        startTime: "18:00",
+        endTime: "20:00",
         sessionIds: [005]
     }
     - {
