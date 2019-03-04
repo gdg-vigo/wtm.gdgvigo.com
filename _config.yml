@@ -27,7 +27,7 @@ organizerDescription: "Women Techmakers powered by GDG Galicia presents
                        International Women's Day Global Event Series. Connect. Create. Celebrate."
 organizerEmail: "info@gdgvigo.com"
 organizerLogo: "/img/seo/wtmgalicia.png"
-organizerLink: "https://www.meetup.com/en-AU/GDGVigo/?chapter_analytics_code=UA-73757047-1"
+organizerLink: "https://www.meetup.com/GDGVigo/?chapter_analytics_code=UA-73757047-1"
 
 # Head
 metaKeywords: "women, techmakers, wtm, galicia, event, gdg, google, programming, android, chrome, developers, lviv"
@@ -53,7 +53,7 @@ navigationLinks:
 
  #- {permalink: "/nggirls/", text: "nggirls"}
 rightNavigationButtons:
- - {link: "https://www.meetup.com/en-AU/GDGVigo/", text: "Inscríbete"}
+ - {link: "https://www.meetup.com/GDGVigo/", text: "Inscríbete"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "7, 15, 22 Marzo, 2019"
 typeoutTextValues: '"", "Vigo"'
 typeoutFallback: "Vigo"
 heroButtons:
- - {permalink: "https://www.meetup.com/en-AU/GDGVigo/events/246829616/", text: "Inscríbete"}
+ - {permalink: "https://www.meetup.com/GDGVigo/events/246829616/", text: "Inscríbete"}
 
 # About Block
 aboutTitle: "Sobre WTM Vigo"
