@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Galicia 2019 - 15, 22, 29 Marzo, Vigo"
+title: "Women Techmakers Vigo 2019 - 15, 22, 29 Marzo, Vigo"
 email: "info@gdgvigo.com"
 description: "Women Techmakers Vigo consiste en tres eventos duranto el mes de Marzo para dar más visibilidad a la mujer en technología"
 baseurl: ""
