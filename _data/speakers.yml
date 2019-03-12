@@ -43,3 +43,14 @@
     - {name: "twitter", link: "https://twitter.com/mgarod3"}
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert"}
+-
+  id: 5
+  name: "Ana"
+  surname: "Cidre"
+  company: "Ultimate Courses"
+  title: "Developer Advocate"
+  bio: "Ana Cidre is a developer advocate and engineer for Ultimate Angular. She is not your usual software developer, as she has a degree in Fine Arts and a Master in International Business Economics and Management. She is a Women Techmaker Lead (Google), is the founder of “GalsTech”, a local group for women in tech in Galicia (Spain), and an organiser of the GDG Vigo chapter. Most recently she is also the organiser of the legendary ngVikings and the upcoming ngSpain."
+  thumbnailUrl: AnaCidre.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/AnaCidre_"}

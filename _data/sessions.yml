@@ -30,7 +30,7 @@
   id: 004
   title: "Fotogrametría Low Cost: Obtención y postprocesado de réplicas 3D"
   description: "Charla técnica sobre pautas y herramientas para sacarle el mayor partido a tus modelos fotogramétricos sin necesidad de equipos profesionales. Para ello, aprenderemos la metodología de toma de datos, corrección de errores y optimización de malla y textura."
-  subtype: workshop
+  subtype: presentation
   speakers: [3]
   language: es
   complexity: "Beginner - Intermediate"
@@ -42,5 +42,13 @@
   subtype: workshop
   speakers: [4]
   language: es
+  complexity: "Beginner"
+-
+  id: 006
+  title: "Building reusable Web components with Angular"
+  description: "In this talk, we are going to look at what web components are and how easy it is to create web components with Angular. One of the main reasons for this is because of all the tooling that the Angular platform provides for us. Once we have created these web components we will then walk through how to add them to a different project. Finally, we will take a look at upcoming additions like lit-html & Shadow parts."
+  subtype: presentation
+  speakers: [5]
+  language: en
   complexity: "Beginner"
 

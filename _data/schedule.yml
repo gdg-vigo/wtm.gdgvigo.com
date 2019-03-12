@@ -3,17 +3,22 @@
   date: "2019-03-15"
   dateReadable: "15 Marzo"
   tracks:
-    - {title: "Taller", color: "#e91e63"}
+    - {title: "Charlas", color: "#e91e63"}
   timeslots:
     - {
         startTime: "18:30",
-        endTime: "19:00",
+        endTime: "18:35",
         sessionIds: [101]
     }
     - {
-        startTime: "19:00",
-        endTime: "20:00",
+        startTime: "18:35",
+        endTime: "19:35",
         sessionIds: [004]
+    }
+    - {
+        startTime: "19:35",
+        endTime: "20:05",
+        sessionIds: [006]
     }
     - {
     	startTime: "20:00",
