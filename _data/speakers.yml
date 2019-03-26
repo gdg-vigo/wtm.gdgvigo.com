@@ -11,13 +11,13 @@
     - {name: "twitter", link: "https://twitter.com/msaezfern"}
 - 
   id: 2
-  name: "TBA"
-  surname: ""
-  company: "TBA"
-  title: ""
-  bio: 'Aún falta por anunciar a esta ponente!'
-  thumbnailUrl: unknown.png
-  rockstar: false
+  name: "Esperanza"
+  surname: "González"
+  company: "MetaBake"
+  title: "Junior Front-End Developer"
+  bio: 'Una persona inquisitiva siguiendo un aparentemente caótico camino de aprendizaje. Empezó a aprender programación de forma autodidacta mientras cursaba un Grado en Bellas Artes y se especializó en teoría computacional con un Máster en Lógica y Filosofía de la Ciencia. Se pasa la mayor parte del tiempo intentando entender cómo funciona todo, visualizando maneras de desarrollar cosas y explorando diversos ámbitos artísticos. Actualmente trabajando y aprendiendo como Junior Front-End Developer.'
+  thumbnailUrl: pic-talk.jpeg
+  rockstar: true
 
 -
   id: 3
@@ -54,3 +54,4 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/AnaCidre_"}
+  

@@ -20,8 +20,8 @@
   complexity: "Beginner"
 -
   id: 003
-  title: "TBA"
-  description: "TBA"
+  title: "Programación Funcional en Javascript."
+  description: "Exploraremos en JavaScript los conceptos fundacionales de la programación funcional y veremos que la programación funcional es mucho menos intimidante y más accesible de lo que parece a primera vista."
   subtype: presentation
   speakers: [2]
   language: es
